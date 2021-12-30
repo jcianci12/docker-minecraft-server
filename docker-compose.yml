@@ -7,6 +7,8 @@ services:
       - 25565:25565
     environment:
       EULA: "TRUE"
+      ENABLE_AUTOPAUSE: "TRUE"
+      MAX_TICK_TIME: -1
     tty: true
     stdin_open: true
     restart: unless-stopped
