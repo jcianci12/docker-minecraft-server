@@ -1,5 +1,8 @@
 [
-    { "uuid": "0215b551-de64-4ee0-a5f1-a4cd69570047", "name": "jcianci12", "level": 4 }
+  {
+    "uuid": "0215b551-de64-4ee0-a5f1-a4cd69570047",
+    "name": "jcianci12",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
 ]
-
-
